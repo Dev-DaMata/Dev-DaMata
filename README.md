@@ -3,7 +3,7 @@
 
 
 - 🔭 Em busca da minha primeira oportunidade
-- 🌱 Estudando NodeJs
+- 🌱 Estudando NodeJs e C# com ASP .NET 
 - 📫 Contate-me no email: gcordeiro773@gmail.com
 - 😄 Pronouns: Ele/Dele
 
