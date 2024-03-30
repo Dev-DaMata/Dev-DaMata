@@ -2,8 +2,8 @@
 
 
 
-- 🧑‍💻 Desenvolvedor Full Stack
-- 🌱 Estudando NodeJs e C# com ASP .NET 
+- 🧑‍💻 Analista de teste/QA
+- 🌱 Estudando Cypress, docker e testes automatizados 
 - 📫 Contate-me no email: gcordeiro773@gmail.com
 - 😄 Pronouns: Ele/Dele
 
